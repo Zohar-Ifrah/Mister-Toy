@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "u101",
+    "username": "Zohar",
+    "fullname": "Zohar",
+    "password": "z"
+  },
+  {
+    "username": "ff",
+    "password": "f",
+    "fullname": "f",
+    "activities": [],
+    "_id": "TP7ZC"
+  },
+  {
+    "username": "gg",
+    "password": "g",
+    "fullname": "gg",
+    "_id": "YUqSK"
+  }
+]

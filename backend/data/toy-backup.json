@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 123,
+        "labels": ["Doll", "Battery Powered", "Baby"],
+        "createdAt": 1631031801011,
+        "inStock": true
+    },
+    {
+        "_id": "t104",
+        "name": "Normal Doll",
+        "price": 32,
+        "labels": ["Doll", "Baby", "Outdoor"],
+        "createdAt": 123654968,
+        "inStock": false
+    },
+    {
+        "_id": "t103",
+        "name": "Scary Doll",
+        "price": 333,
+        "labels": ["Doll", "Battery Powered", "Puzzle"],
+        "createdAt": 123654978,
+        "inStock": true
+    },
+    {
+        "_id": "t106",
+        "name": "Cute Doll",
+        "price": 12,
+        "labels": ["Doll", "On wheels", "Battery"],
+        "createdAt": 123654988,
+        "inStock": false
+    },
+    {
+        "_id": "t107",
+        "name": "Tall Doll",
+        "price": 2,
+        "labels": ["Doll", "Battery Powered", "Baby", "Art"],
+        "createdAt": 123654988,
+        "inStock": false
+    },
+    {
+        "_id": "t102",
+        "name": "Tall Doll",
+        "price": 1,
+        "labels": ["Doll", "Battery Powered", "Baby", "Box game"],
+        "createdAt": 123654988,
+        "inStock": true
+    },
+    {
+        "_id": "t105",
+        "name": "Talking Doll",
+        "price": 555,
+        "labels": ["Doll", "Battery Powered", "Baby", "On wheels"],
+        "createdAt": 1631031801011,
+        "inStock": true
+    }
+]
