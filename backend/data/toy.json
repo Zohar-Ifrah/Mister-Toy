@@ -27,7 +27,7 @@
   {
     "_id": "t101",
     "name": "Talking D",
-    "price": 118,
+    "price": 116,
     "labels": [
       "Doll",
       "Battery Powered",
@@ -39,7 +39,7 @@
   {
     "_id": "t104",
     "name": "Normal Doll",
-    "price": 32,
+    "price": 33,
     "labels": [
       "Doll",
       "Baby",
@@ -76,14 +76,25 @@
   {
     "_id": "t102",
     "name": "Tall Doll",
-    "price": 1,
+    "price": 3,
     "labels": [
-      "Doll",
       "Battery Powered",
       "Baby",
       "Box game"
     ],
     "createdAt": 123654988,
     "inStock": true
+  },
+  {
+    "name": "A Doll",
+    "price": 18,
+    "labels": [
+      "Baby",
+      "Puzzle",
+      "Doll"
+    ],
+    "createdAt": 1685383686250,
+    "inStock": true,
+    "_id": "eCLRS"
   }
 ]
