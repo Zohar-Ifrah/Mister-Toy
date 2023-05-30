@@ -107,7 +107,6 @@ app.put('/api/toy', (req, res) => {
             console.log('Cannot update toy')
             res.status(400).send('Cannot update toy')
         })
-
 })
 
 // Read - getById
